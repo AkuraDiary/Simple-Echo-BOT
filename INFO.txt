@@ -1,0 +1,2 @@
+Echo BOT hanyalah sebuah program sederhana yang dapat anda ajak berbicara/
+mengobrol/ chatting. Namun masih hanya dalam hal hal sederhana dan dasar saja. 
